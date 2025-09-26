@@ -1,4 +1,4 @@
-# A/B/n Test: Food Drink Produc Development  
+# A/B/n Test: Food Drink Product Development  
 
 ## Executive Summary  
 This project applied an A/B/n testing framework to evaluate three coded product variations (A, B, and C) of a new food drink. Respondents rated **taste, sweetness, texture (1–5 scale)** and **purchase intent (0–10 scale)**. Statistical analysis was performed to identify the most promising formulation for commercialization.  
@@ -43,6 +43,6 @@ To determine which product formulation is most preferred by consumers and statis
 Certain sensitive business details have been **retracted** to protect confidentiality. This repository focuses on methodology, statistical reasoning, and analysis workflow for A/B testing.  
 
 ## Analysis Resources
-- Test Report
-- Test Analysis
+- Test Report [Link](AB_Test_Analysis.pdf)
+- Test Analysis [Link](AB_Test_Analysis.xlsx)
 
