@@ -21,7 +21,7 @@ Each analysis folder includes the following components:
 - **Social Science Statistics Calculator:** For calculating effect sizes such as Cohen’s d.  
 
 ## Analysis Areas  
-- [A/B/n Test for Food Product Development](A/B/n_Test_FPD)
+- [A/B/n Test for Food Product Development](ABn_Test_FPD)
 
 ## Explore Project  
 To explore this project on your local machine, follow these steps:  
