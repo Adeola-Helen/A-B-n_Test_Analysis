@@ -30,11 +30,11 @@ The project folder includes the following components:
 ## Explore Project  
 To explore this project on your local machine, follow these steps:  
 
-**1. Clone the repository**  
-Open your terminal (or Git Bash) and type:  
-```bash
-git clone https://github.com/Adeola-Helen/A-B-n_Test_Analysis.git
-
-**2. Navigate Project Folder**
-```bash
-cd A-B-n_Test_Analysis
+1. **Clone the repository**  
+   Open your terminal (or Git Bash) and type:
+    ```bash
+   git clone https://github.com/Adeola-Helen/A-B-n_Test_Analysis.git
+    
+2. **Navigate Project Folder**  
+   ```bash
+   cd A-B-n_Test_Analysis
