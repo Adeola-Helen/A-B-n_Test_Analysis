@@ -35,6 +35,6 @@ Open your terminal (or Git Bash) and type:
 ```bash
 git clone https://github.com/Adeola-Helen/A-B-n_Test_Analysis.git
 
-2. **Navigate Project Folder**  
+**2. Navigate Project Folder**
 ```bash
 cd A-B-n_Test_Analysis
