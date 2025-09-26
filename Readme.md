@@ -1,11 +1,11 @@
 # A-B-n_Test_Analysis  
 
 ## Welcome  
-Welcome to my A/B/n Test Portfolio! This repository is part of a collection of projects that demonstrate my ability to apply analytical frameworks, statistical methods, and business reasoning to real-world problems. Here, I focus on an A/B/n testing project for a food and beverage context, showcasing how structured experimentation and statistical validation can guide product development and decision-making.
+Welcome to my A/B/n Test Portfolio! This repository is part of a collection of projects that demonstrate my ability to apply analytical frameworks, statistical methods, and business reasoning to real-world problems. Here, I focus on A/B/n testing projects, showcasing how structured experimentation and statistical validation can guide product or service development and decision-making.
 
 
 ## Project Structure  
-The project folder includes the following components:  
+Each analysis folder includes the following components:  
 
 - **Executive Summary:** A high-level overview highlighting the key findings and outcomes of the A/B/n test.  
 - **Objective:** The specific goals the test aimed to achieve and the questions it sought to answer.  
@@ -21,11 +21,7 @@ The project folder includes the following components:
 - **Social Science Statistics Calculator:** For calculating effect sizes such as Cohen’s d.  
 
 ## Analysis Areas  
-- Purchase Intent Evaluation  
-- Taste Rating Comparison  
-- Sweetness Perception Analysis  
-- Texture Preference Analysis  
-- Brand Switching Likelihood  
+- [A/B/n Test for Food Product Development](A/B/n_Test_FPD)
 
 ## Explore Project  
 To explore this project on your local machine, follow these steps:  
